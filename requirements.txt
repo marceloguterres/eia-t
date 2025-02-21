@@ -1,1 +1,7 @@
+# Pacotes principais usados no projeto
 streamlit
+pandas
+matplotlib
+numpy
+odfpy  # Necessário para leitura de arquivos ODS pelo pandas
+
